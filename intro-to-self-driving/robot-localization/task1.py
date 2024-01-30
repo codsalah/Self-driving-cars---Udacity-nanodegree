@@ -17,3 +17,4 @@ for i in range(len(p)):
 
 # Output the updated list
 print(p)
+print(sum(p))
