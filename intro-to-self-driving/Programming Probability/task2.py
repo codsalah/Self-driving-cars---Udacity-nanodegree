@@ -31,3 +31,4 @@ def find_match(world, measurement):
 
 # This line runs the function and stores the output - do not delete 
 locations = find_match(world, measurement)
+print(locations)
